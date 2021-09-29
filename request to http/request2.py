@@ -18,7 +18,7 @@ title = ['名稱', '價格', '數量']
 # 加入列表
 ws.append(title)
 
-# 避免，防爬蟲機制，被擋掉，修改ueser-agent,貼上ueser-agent資訊
+# 避免，防爬蟲機制，被擋掉，修改ueser-agent，貼上ueser-agent資訊
 header ={
   'ueser-agent': ''
 }
