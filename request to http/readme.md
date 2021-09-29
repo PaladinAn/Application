@@ -2,4 +2,5 @@
 
 ## 測試發送請求: https://httpbin.org/
 
-# Step1  pip install requests
+# 安裝1  pip install requests
+# 安裝2  pip install openpyxl
