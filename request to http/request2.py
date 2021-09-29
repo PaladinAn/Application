@@ -2,8 +2,8 @@
 # 按F12，按network，按F5，找請求的資訊；再以python模擬請求
 # 按Preview，查看資料
 # 按Headers，可找到該請求網址
-# 在Response Headers 下 的 content-type，可找到該頁面格式
-# 在Request Headers 下 的 ueser-agent，可找到該頁面ueser-agent
+# 在Response Headers 下，content-type，可找到該頁面格式
+# 在Request Headers 下，ueser-agent，可找到該頁面ueser-agent
 
 import request as req
 # 爬取到的資訊寫入EXCEL
