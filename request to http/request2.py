@@ -46,7 +46,7 @@ for index in range(28):
     course.append(data['title'])
     # 第二個要取得資訊的位置: data底下的owner的price
     course.append(data['owner']['price'])
-    # 第二個要取得資訊的位置: 
+    # 第三個要取得資訊的位置: 
     course.append(data['owner']['quantity'])
     
     # 列表寫入Excel
