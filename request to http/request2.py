@@ -1,5 +1,5 @@
 # 以Chrome為例，進行爬取
-# 按F12，按network，按F5，找請求的資訊；再以pythono模擬請求
+# 按F12，按network，按F5，找請求的資訊；再以python模擬請求
 # 按Preview，查看資料
 # 按Headers，可找到該請求網址
 # 在Response Headers 下 的 content-type，可找到該頁面格式
