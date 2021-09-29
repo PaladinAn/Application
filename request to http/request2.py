@@ -50,5 +50,5 @@ for index in range(28):
     
     # 列表寫入Excel
     ws.append(course)
-  # 存檔
-  wb.save('data.xlsx')
+# 存檔
+wb.save('data.xlsx')
